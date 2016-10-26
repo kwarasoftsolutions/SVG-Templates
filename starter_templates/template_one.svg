@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <!--background layer-->
+  <g id="background-layer">
+     <rect id="background" x="0" y="0" width="1920" height="1080" fill="#f00"></rect>
+  </g>
+  <!--working layer-->
+  <g id="working-layer">
+     <text x="100" y="100" fill="#fff" font-size="76px">text here</text>
+  </g>
+  <!--foreground layer-->
+  <g id="foregound-layer">
+  </g>
+</svg>
